@@ -13,7 +13,7 @@ Abra o arquivo do projeto e logo em seguida salve-o com em outro diretório de s
 
 # Gerando a base do código
 Vá até a aba "Tools", e em seguinda clique em "Generation", como mostrado abaixo: 
-<a href="https://imgur.com/IBesZVq"><img src="https://imgur.com/IBesZVq.jpg" title="source: imgur.com" /></a>
+<a href="https://imgur.com/4mPZgFN"><img src="https://imgur.com/4mPZgFN.jpg" title="source: imgur.com" /></a>
 Abrirá uma janela com alguns parâmetros, que deverão ser configurados a seguir:
   *    Versão do cubeMX 5.2.0 ou mais recente
   *    Target Toolchain é o compilador que desejamos usar, no caso selecione "Keil MDK-ARM V5"
@@ -47,4 +47,5 @@ Ligue o fio de sinal da NUCLEO (D6) no pad "IN" próximo ao pad de alimentação
 ## Testando o conjunto
 Ligue a fonte da placa STEVAL-ESC001V1, na NUCLEO gire o potenciômetro para a posição mínima (acompanhe o valor em algum terminal), o motor deverá emitir alguns sons, então suba um pouco o valor do potenciômetro para que o motor começe a girar. 
 
-
+## Link com projeto completo
+[link](https://drive.google.com/drive/folders/1XezOjP0t8a2dyGrOZNeUsUiSOQQl37kH?usp=sharing)
